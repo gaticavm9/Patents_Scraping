@@ -1,29 +1,19 @@
-# README #
+# Patents_Scraping
+Tecnicas de Web Scraping aplicada a recopilar patentes digitales en las principales Oficinas de Patentes del mundo.
 
-This README would normally document whatever steps are necessary to get your application up and running.
+### Oficinas de patentes
+-USPTO
 
-### What is this repository for? ###
+https://patft.uspto.gov/netahtml/PTO/search-adv.htm
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+-EPO
 
-### How do I get set up? ###
+https://register.epo.org/advancedSearch?lng=en
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+-Oficina de Canadá
 
-### Contribution guidelines ###
+https://www.ic.gc.ca/opic-cipo/cpd/eng/search/advanced.html
 
-* Writing tests
-* Code review
-* Other guidelines
+- Oficina de Australia
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+http://pericles.ipaustralia.gov.au/ols/auspat/advancedSearchPage.do
