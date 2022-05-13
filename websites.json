@@ -1,0 +1,76 @@
+[
+    {
+        "name": "USPTO",
+        "url": "http://patft.uspto.gov/netahtml/PTO/search-adv.htm",
+        "scriptName": "uspto",
+        "selectors": {
+                        "queryArea": "#mytextarea",
+                        "searchButton": "body > center > form > table > tbody > tr:nth-child(2) > td:nth-child(2) > input[type=SUBMIT]:nth-child(2)",
+                        "primeraPatente": "body > table > tbody > tr:nth-child(2) > td:nth-child(2) > a",
+                        "cantidadPatentes": "body > i > strong:nth-child(3)",
+                        "helpButton": "body > center:nth-child(64) > a:nth-child(6) > img",
+                        "patentes": "tr > td[valign='top']:nth-of-type(2) > a",
+                        
+                        "origin": "tbody tr:nth-child(2) td[align='left'][width='90%'] td:nth-child(4):not(br)",
+                        "assignee": "tbody tr:nth-child(3) td[align='left'][width='90%'] b:nth-child(1)",
+                        "nroAppl": "tbody tr:nth-child(5) td[align='left'][width='90%'] b:nth-child(1)",
+                        "nroPatente": "tbody tr:nth-child(1) td[align='right'][width='50%'] b",
+                        "title": "font[size='+1']",
+                        "abstract": "body p:nth-of-type(1)"
+
+
+        }
+    },
+
+    {
+        "name": "EPO",
+        "url": "https://register.epo.org/regviewer?lng=en",
+        "scriptName": "epo",
+        "selectors": {
+                        "queryArea": "#searchForm > div.formElement.formElement100.formElement100Text > span.textarea > textarea",
+                        "searchButton": "#searchForm > div.epoBar.epoBarAction > div.secondary > div.epoBarItem.epoBarItemForm > div > span > input",
+                        "primeraPatente": "#body > div.modSearchResult > div.blockMe > table > tbody > tr:nth-child(1) > th > a",
+                        "cantidadPatentes": "#body > div.modSearchResult > div.blockMe > div:nth-child(1) > div.primary > div > p:nth-child(1)",
+                        "helpButton": "body > center:nth-child(64) > a:nth-child(6) > img",
+                        "patentes": "#body > div.modSearchResult > div.blockMe > table > tbody > tr > th > a",
+                        "nextPage":"#body > div.modSearchResult > div.blockMe > div:nth-child(1) > div.secondary.noPrint > div > a.paginationNext",
+                        
+                        "assignee": "#body > table > tbody > tr:nth-child(11) > td.t2",
+                        "nroAppl": "#body > table > tbody > tr:nth-child(13) > td.t2",
+                        "nroPatente": "#epoContentLeft > ul > span:nth-child(1)",
+                        "title": "#body > table > tbody > tr:nth-child(1) > td > b > font > a"
+
+
+        }
+    },
+
+    {
+        "name": "CANADA",
+        "url": "https://www.ic.gc.ca/opic-cipo/cpd/eng/search/advanced.html",
+        "scriptName": "canada",
+        "selectors": {
+                        "textField1": "#selField1",
+                        "titleField": "title",
+                        "textField2": "#selField2",
+                        "ownerField": "owners-on-record",
+                        "countryField": "#inventorCountry",
+                        "dateField": "#dateSearchType",
+                        "dateFieldType": "issue-date",
+                        "fromDateField": "#fromDate",
+                        "toDateField": "#toDate",
+                        "searchButton": "#advanced > div > div.ui-submit.ui-btn.ui-btn-up-c.ui-shadow.ui-btn-corner-all > button",
+                        "primeraPatente": "#body > div.modSearchResult > div.blockMe > table > tbody > tr:nth-child(1) > th > a",
+                        "cantidadPatentes": "#body > div.modSearchResult > div.blockMe > div:nth-child(1) > div.primary > div > p:nth-child(1)",
+                        "helpButton": "body > center:nth-child(64) > a:nth-child(6) > img",
+                        "patentes": "#body > div.modSearchResult > div.blockMe > table > tbody > tr > th > a",
+                        "nextPage":"#body > div.modSearchResult > div.blockMe > div:nth-child(1) > div.secondary.noPrint > div > a.paginationNext",
+                        
+                        "assignee": "#body > table > tbody > tr:nth-child(11) > td.t2",
+                        "nroAppl": "#body > table > tbody > tr:nth-child(13) > td.t2",
+                        "nroPatente": "#epoContentLeft > ul > span:nth-child(1)",
+                        "title": "#body > table > tbody > tr:nth-child(1) > td > b > font > a"
+
+
+        }
+    }
+]

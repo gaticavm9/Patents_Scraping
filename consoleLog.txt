@@ -1,0 +1,134 @@
+C:\xampp\htdocs\xampp\Santibu\patents-scrapping>node index.js  
+50
+[
+  {
+    titulo: 'Process for the preparation of an additive as a food supplement based on seaweeds for birds and animals; as well as the product obtained and its use in the food conversion and in the production of bird and animal meat'
+  },
+  {
+    titulo: 'Braille and/or in auditive Morse code writing device, for users with visual disabilities and/or any motor disorder'
+  },
+  {
+    titulo: 'Process allowing the removal through digital refocusing of fixed-pattern noise in effective images formed by electromagnetic sensor arrays in a light field'
+  },
+  {
+    titulo: "AAV/UPR-plus virus, UPR-plus fusion protein, genetic treatment method and its use in treatment of neurodegenerative diseases, such as Parkinson's disease and Huntington's disease, among others"
+  },
+  {
+    titulo: 'Isolated Pseudomonas aeruginosa bacterial strain, named CSMY-1, deposited under accession number RGM2262, which has the capacity to degrade pollutants present in the environment, in soils or liquid industrial waste, and arsenic-containing waste'
+  },
+  {
+    titulo: 'Biomolecule-functionalised PVC and production method thereof'
+  },
+  {
+    titulo: 'Method for propagation of woody plants from leaf cuttings'
+  },
+  { titulo: 'Ice cream and/or refrigerated products basket' },
+  {
+    titulo: 'Sketch-based image searching system using cell-orientation histograms and outline extraction based on medium-level features'
+  },
+  {
+    titulo: 'Method for removing arsenic from materials containing same'
+  },
+  {
+    titulo: 'Monoclonal antibodies specifically for the antigen P of the human respiratory syncytial virus, produced and secreted by the cells hybridomas, useful for detection and diagnostic of the infection caused by RSV'   
+  },
+  {
+    titulo: 'Combination of foundation anchor and energy damper for vertical liquid storage tanks, vertical pressure container, silo or the like with a thin wall and a continuous support'
+  },
+  {
+    titulo: 'Synthetic promotor induced by abiotic stress, genetic construct containing same and plant cells transformed therewith'
+  },
+  {
+    titulo: 'Apparatus and method for static sedimentation tests comprising a plurality of sedimentation cylinders, which are subject to the same mixing conditions'
+  },
+  {
+    titulo: 'Device for preventing spills from inside mining mills, said device maintaining a seal around bolts used to secure mill liners, and maintaining said bolts under tension by means of an elastic action'
+  },
+  {
+    titulo: 'Two-color net for protecting fruit against damage caused by direct solar radiation and high temperatures'
+  },
+  {
+    titulo: 'Compositions that include anthocyanidins and methods of use'
+  },
+  {
+    titulo: 'Method for estimating force and pressure of collision in vocal cords from high-speed laryngeal videos'
+  },
+  { titulo: 'Plant dormancy control system' },
+  {
+    titulo: 'Pinata of reduced volume to facilitate the transport thereof'
+  },
+  {
+    titulo: 'System for the treatment and recirculation of freshwater or saltwater to restore water quality to optimum levels in fish farming cages'
+  },
+  {
+    titulo: 'Monoclonal antibodies specific for the pIII antigen of human Adenovirus (ADV), produced and secreted by cell hybridomas, useful for detection and diagnosis of ADV infection'
+  },
+  { titulo: 'Device, platform, and assay for assessing cells' },
+  {
+    titulo: 'Method for producing arsenic sulphide nanostructures from fusibacter ascotence and produced nanostructures'
+  },
+  {
+    titulo: 'System and method for secure electronic communications through security hardware based on threshold cryptography'
+  },
+  {
+    titulo: 'Configurable and dismantlable display case system comprising a plastic shelving unit with trays at different levels, and method of assembly'
+  },
+  {
+    titulo: 'Bio-additive for heavy oils, which comprises rapeseed oil methyl esters, surfactants, diluents and metal oxides, and use thereof for reducing polluting emissions and as a combustion efficiency bio-enhancer for heavy oils'
+  },
+  { titulo: 'Detergent composition in the form of a sheet' },
+  {
+    titulo: 'System and method for managing water or other type of fluid'
+  },
+  {
+    titulo: 'Automated fabrication of layer-by-layer tissue engineered complex tubes'
+  },
+  {
+    titulo: 'Partial power converter (PPC) in an electrical energy system'
+  },
+  {
+    titulo: 'Kit for predicting treatment with glucocorticoids and method comprising the same'
+  },
+  {
+    titulo: 'Plastic container below 450 gr for horticulture products exports'
+  },
+  {
+    titulo: 'Apparatus and method for measuring a gas volume fraction of an aerated fluid in a reactor'
+  },
+  { titulo: 'Ventilation assembly' },
+  { titulo: 'Method for obtaining saponins from plants' },
+  {
+    titulo: 'Device for measuring a wireless radio frequency channel with directional measurement ability (angular)'
+  },
+  {
+    titulo: 'Method, systems and kit for forensic identification, post mortem interval estimation and cause of death determination by recovery of dental tissue in physiological conditions'
+  },
+  {
+    titulo: 'Method for visualizing biomolecules, such as proteins or nucleic acids, with the unaided eye, without needing to use potentially toxic compounds, exposure to ultraviolet (UV) light or fluorescence'
+  },
+  { titulo: 'Direct electrowinning process with leaching solution' },
+  {
+    titulo: 'Method for obtaining root mass from vegetable seeds and root mass obtained thereof'
+  },
+  { titulo: 'Orchard climate control system' },
+  {
+    titulo: 'Chimeric gene for heterologous expression which encodes for peptides with antimicrobial activity'
+  },
+  {
+    titulo: 'EWS module device for electro-winning and/or electro-refining, interconnection process, and operating process thereof'
+  },
+  {
+    titulo: 'Microstructured multicomposite copper microparticle with antibacterial and/or biocidal activity that comprises in its structure 5 different types of copper compounds, all regular and crystalline'
+  },
+  {
+    titulo: 'System and method for communication by means of visible light for underground tunnels'
+  },
+  {
+    titulo: 'Manual, portable ultrasonography device, with centralized control and processing in the hardware and with display outputs, which operates in real time with a high image refresh rate'
+  },
+  { titulo: 'Asian plum tree named `Sweet Pekeetah`' },
+  { titulo: 'Agglomeration drum for pre-treating minerals' },
+  { titulo: 'Plasmids and method for obtaining viral particles' }
+]
+
+C:\xampp\htdocs\xampp\Santibu\patents-scrapping>
